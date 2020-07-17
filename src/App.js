@@ -36,21 +36,9 @@ useEffect(() => {
 
 useEffect( () => {
   ameliaBrown &&
-  // console.log([... new Set(ameliaBrown.map(data => data.subfund_name))] )
   setSubfundOne(Object.values(ameliaBrown).filter(item => item.subfund_id === 'high_volatility'))
     }, [ameliaBrown])
 
-    // console.log(subfundOne)
-
-// const unique = (val, ind, self) => {
-//   return self.indexOf(val) === ind;
-// }
-
-// const uniqSubFund = threeSigma.filter(item => item[unique])
-
-
-// let subFund = [...new Set(threeSigma.map(x => x.subfund_name))]
-// console.log(subFund)
   return (
     <>
     <div className="App">

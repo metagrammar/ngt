@@ -7,5 +7,12 @@ See folder scr > convert
 Hooked up database > Config.js
 Initialized database > App.js
 
-## Read datad from database
+## Read data from database
 
+Inside useEffects()
+
+## Difficulties
+
+Tried to consume the data in a meaningful way, but was not able to.
+
+Thank you for the opportunity anyway ;-)
