@@ -42,7 +42,7 @@ useEffect( () => {
   return (
     <>
     <div className='header'>
-      <div className='header-cont contain'> NGT </div>
+      <div className='header-cont contain'> NextGateTech </div>
     </div>
     <div className="App">
       <div className='contain'>
