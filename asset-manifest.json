@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/metagrammar/ngt/static/css/main.58591b1d.chunk.css",
-    "main.js": "/metagrammar/ngt/static/js/main.0d3891fd.chunk.js",
-    "main.js.map": "/metagrammar/ngt/static/js/main.0d3891fd.chunk.js.map",
-    "runtime-main.js": "/metagrammar/ngt/static/js/runtime-main.ff4bc193.js",
-    "runtime-main.js.map": "/metagrammar/ngt/static/js/runtime-main.ff4bc193.js.map",
-    "static/js/2.d63c2cfc.chunk.js": "/metagrammar/ngt/static/js/2.d63c2cfc.chunk.js",
-    "static/js/2.d63c2cfc.chunk.js.map": "/metagrammar/ngt/static/js/2.d63c2cfc.chunk.js.map",
-    "index.html": "/metagrammar/ngt/index.html",
-    "precache-manifest.ed86738f9537ede8f84358132c34e967.js": "/metagrammar/ngt/precache-manifest.ed86738f9537ede8f84358132c34e967.js",
-    "service-worker.js": "/metagrammar/ngt/service-worker.js",
-    "static/css/main.58591b1d.chunk.css.map": "/metagrammar/ngt/static/css/main.58591b1d.chunk.css.map",
-    "static/js/2.d63c2cfc.chunk.js.LICENSE.txt": "/metagrammar/ngt/static/js/2.d63c2cfc.chunk.js.LICENSE.txt"
+    "main.css": "/metagrammar/deploy-ngt/static/css/main.58591b1d.chunk.css",
+    "main.js": "/metagrammar/deploy-ngt/static/js/main.0d3891fd.chunk.js",
+    "main.js.map": "/metagrammar/deploy-ngt/static/js/main.0d3891fd.chunk.js.map",
+    "runtime-main.js": "/metagrammar/deploy-ngt/static/js/runtime-main.17dc8e3b.js",
+    "runtime-main.js.map": "/metagrammar/deploy-ngt/static/js/runtime-main.17dc8e3b.js.map",
+    "static/js/2.294df792.chunk.js": "/metagrammar/deploy-ngt/static/js/2.294df792.chunk.js",
+    "static/js/2.294df792.chunk.js.map": "/metagrammar/deploy-ngt/static/js/2.294df792.chunk.js.map",
+    "index.html": "/metagrammar/deploy-ngt/index.html",
+    "precache-manifest.77d631d0f6de51519f9dcb9f32d08d91.js": "/metagrammar/deploy-ngt/precache-manifest.77d631d0f6de51519f9dcb9f32d08d91.js",
+    "service-worker.js": "/metagrammar/deploy-ngt/service-worker.js",
+    "static/css/main.58591b1d.chunk.css.map": "/metagrammar/deploy-ngt/static/css/main.58591b1d.chunk.css.map",
+    "static/js/2.294df792.chunk.js.LICENSE.txt": "/metagrammar/deploy-ngt/static/js/2.294df792.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ff4bc193.js",
-    "static/js/2.d63c2cfc.chunk.js",
+    "static/js/runtime-main.17dc8e3b.js",
+    "static/js/2.294df792.chunk.js",
     "static/css/main.58591b1d.chunk.css",
     "static/js/main.0d3891fd.chunk.js"
   ]
